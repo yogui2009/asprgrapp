@@ -1,0 +1,43 @@
+@charset "utf-8";
+.navbar.navbar-default.navbar-fixed-top {
+	background-color: #64D1FF;
+}
+.navbar.navbar-default.navbar-fixed-top .container-fluid #topFixedNavbar1 {
+}
+
+.container-fluid .navbar-header .navbar-brand {
+	background-color: #49C9FF;
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px #000000;
+	font-size: x-large;
+}
+.nav.navbar-nav li a {
+	color: #000000;
+}
+.nav.navbar-nav.navbar-right li a {
+	color: #000000;
+	font-weight: bold;
+}
+.nav.navbar-nav .dropdown .dropdown-menu {
+	background-color: #64D1FF;
+}
+
+.nav.navbar-nav .dropdown .dropdown-toggle {
+}
+.dropdown .dropdown-menu li {
+	color: #000000;
+	font-size: large;
+}
+.nav.navbar-nav .dropdown .dropdown-menu {
+}
+.dropdown-menu li a {
+	color: #000000;
+}
+.navbar-header .navbar-toggle.collapsed .icon-bar {
+	background-color: #004F71;
+}
+.container-fluid #topFixedNavbar1 .img-responsive {
+	max-width: 8%;
+}
+.infinite {
+}

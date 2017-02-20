@@ -1,0 +1,23 @@
+tr th img {
+	width: 40px;
+}
+.row .col-md-3 h1 {
+	color: #0F7DAB;
+	text-align: center;
+	font-size: xx-large;
+	text-shadow: 2px 2px 2px #979797;
+	font-weight: bold;
+}
+body {
+	background-color: #008DC9;
+}
+.row .col-sm-3 h1 {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 1px 1px 1px #000000;
+}
+.container-fluid .navbar-header .navbar-brand.animate.pulse {
+	
+	
+}
